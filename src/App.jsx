@@ -1,6 +1,9 @@
+import './App.css'
+import { Game } from './components/Game/Game'
+
 function App() {
   return (
-    <div>123</div>
+    <Game />
   )
 }
 
